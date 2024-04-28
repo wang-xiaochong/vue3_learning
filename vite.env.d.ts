@@ -7,3 +7,8 @@ declare module "*.vue" {
 }
 
 declare module 'lodash'
+
+// declare module '*.js' {
+//     const src: string
+//     export default src
+// }
